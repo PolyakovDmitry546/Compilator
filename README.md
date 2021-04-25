@@ -1,2 +1,2 @@
 # Compilator
-Код в ветке main
+Код в ветке master
